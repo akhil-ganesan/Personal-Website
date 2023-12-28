@@ -30,7 +30,7 @@ linkedin_username: akhil-ganesan
 github_username:  akhil-ganesan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 skin: dark
