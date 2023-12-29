@@ -4,7 +4,7 @@ title: Class Notes
 permalink: /class-notes/
 ---
 
-This page is still being updated.
+Note: this page is actively being updated with new course notes each semester.
 
 ## Math
 
