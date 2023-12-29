@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: cv
 title: CV
 permalink: /cv/
 ---
+
+This page is in progress
+
+<!--
 # Education
 
 Georgia Institute of Technology
@@ -44,4 +48,4 @@ SciOly
 Debate
 
 Quizbowl
-
+-->

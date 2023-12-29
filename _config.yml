@@ -21,9 +21,9 @@
 title: Akhil Ganesan
 email: akhilganesan526@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Akhil Ganesan is a biomedical engineering major at Georgia Tech 
-  interested in cellular/tissue/genetic engineering, neuroengineering, 
-  immunoengineering, & computational biology.
+  Akhil Ganesan is a biomedical engineering major & CS minor at Georgia Tech 
+  interested in computational biology, neuroengineering, 
+  immunoengineering, & cellular/tissue/genetic engineering.
 baseurl: /Portfolio # the subpath of your site, e.g. /blog
 url: https://akhil-ganesan.github.io # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: akhil-ganesan
@@ -33,7 +33,9 @@ github_username:  akhil-ganesan
 theme: minima
 plugins:
   - jekyll-feed
-skin: dark
+# minima:
+#  skin: dark
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

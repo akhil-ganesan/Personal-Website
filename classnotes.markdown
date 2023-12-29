@@ -3,6 +3,10 @@ layout: page
 title: Class Notes
 permalink: /class-notes/
 ---
+
+This page is in progress
+
+<!--
 # Math
 
 # Linear Algebra
@@ -16,3 +20,5 @@ permalink: /class-notes/
 ## Materials Science & Engineering
 
 # High School AP Classes
+-->
+
