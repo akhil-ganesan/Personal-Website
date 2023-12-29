@@ -47,11 +47,13 @@ The requirements here are condensed from typical physics-heavy engineering degre
 - BMED 3410: Biomechanics (Dynamics & Deformable Bodies)
 - PHYS 2212: Electromagnetism & Waves
 - ECE 3710: Circuits & Electronics
-- ECE 3741: Electronics & Instrumentation Lab
-- BMED 2110 - Conservation Principles in BME
-BMED 3310 - Biotransport (Fluid, Heat, & Mass Transfer)
+- ECE 3741: Instrumentation & Electronics Lab
+- BMED 2110: Conservation Principles in BME (Engineering Physics)
+- BMED 3310: Biotransport (Fluid Dynamics, Thermodynamics, & Mass Transfer)
 
-Computer Science
-CS 1301/1371 - Computing Principles
-BMED 3520 - Biocomputing
+# Computer Science
+
+The requirements include content from a simplified data analysis/signal processing thread under electrical engineering.
+- CS 1301/1371: Computing Principles
+- BMED 3520: Biomedical Systems & Modeling (Biocomputing)
 
