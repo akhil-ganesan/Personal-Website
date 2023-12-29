@@ -10,9 +10,9 @@ In developing the [biomedical engineering degree visualizer project](https://gt-
 # Design
 
 These courses seek to teach the principles of engineering (including critical skills/tools) in a project-based environment.
-- BMED 1000: Intro to Design
-- BMED 2250: Computational Design
-- BMED 2310: CAD Design
+- BMED 1000: Intro to Biomedical Engineering
+- BMED 2250: Problems in Biomedical Engineering (Computational Design)
+- BMED 2310: Intro to Biomedical Engineering Design (CAD Design)
 
 # Math
 
@@ -34,10 +34,10 @@ The GT BME Curriculum includes no courses from the biology department, instead h
 
 # Chemistry
 
-The requirements for Chemistry go beyond most engineering degrees, but are less than Chemical & Materials Engineering.
+The requirements for chemistry go beyond most engineering degrees, but are less than those for chemical & materials engineering.
 - CHEM 1211K: General Chemistry
 CHEM 1315: Survey of Organic Chemistry
-- MSE 2001: Materials Science & Engineering Principles
+- MSE 2001: Principles & Applications of Engineering Materials
 
 # Physics
 
