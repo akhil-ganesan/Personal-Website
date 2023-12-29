@@ -5,6 +5,22 @@ date:   2023-12-27 15:01:47 -0500
 categories: jekyll update
 ---
 
+First Semester Reflections
+
+Here are a couple takeaways after my first 4 months at Georgia Tech:
+
+Curricular
+
+I was able to end this semester with a 4.0 GPA taking the following 7 classes (18 credits):
+- Intro to Biomedical Engineering (BMED 1000, 1 credit): This class taught Biomedical Engineering principles in a project-oriented environment & 
+- Foundations of Health (APPH 1040, 2 credits): 
+- Statics (COE 2001, 2 credits)
+- Principles & Applications of Engineering Materials (MSE 2001, 3 credits)
+- Survey of Organic Chemistry (CHEM 1315, 3 credits)
+- Intro to Object-Oriented Programming (CS 1331, 3 credits)
+- Introductory Physics II (PHYS 2212, 4 credits)
+
+
 This page is in progress
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
