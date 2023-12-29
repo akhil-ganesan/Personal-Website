@@ -5,9 +5,9 @@ permalink: /class-notes/
 ---
 # Math
 
-## Linear Algebra
+# Linear Algebra
 
-## Multivariable Calculus
+# Multivariable Calculus
 
 # Science
 
