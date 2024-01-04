@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "First Semester Review"
+title:  "Fall 2023 Semester Review"
 date:   2023-12-29 15:01:47 -0500
-categories: Semester Review
+categories: Semester-Review
 ---
 
-Here are a couple takeaways after my first 4 months at Georgia Tech:
+Here are a couple takeaways after the Fall 2023 at Georgia Tech:
 
 ## Curricular
 
