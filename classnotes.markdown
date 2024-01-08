@@ -8,7 +8,7 @@ Note: this page is actively being updated with new course notes each semester.
 
 ## Math
 
-- [Analytic Geometry & Calclulus III](https://drive.google.com/file/d/17TUjv6KTZcby1JKJy0FtNcshx1Re3SzQ/view?usp=drivesdk)
+- [Analytic Geometry & Calculus III](https://drive.google.com/file/d/17TUjv6KTZcby1JKJy0FtNcshx1Re3SzQ/view?usp=drivesdk)
 - [Linear Algebra](https://drive.google.com/file/d/1Xu12UFDPqEpRaerYXc45CrA2Di_h6nGG/view?usp=drivesdk)
 
 ## Science
