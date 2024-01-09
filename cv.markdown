@@ -52,14 +52,14 @@ For this section, see [here]({{ site.baseurl }}{% link projects.markdown %}) for
 [**Georgia Tech Biomedical Engineering Degree Visualizer**](https://gt-bmed-degree-visualizer.onrender.com/), Dec 2023
 - Created a web app for GT BME degree planning using a Flask framework (with HTML/CSS/JS front-end & Python back-end)
 
-[**Detecting & Extracting Information from Genetically-Mutated Data Using AI**](..\Detecting_&_Extracting_Information_from_Genetically-Mutated_Data_Using_AI.pdf), Oct 2023
+[**Detecting & Extracting Information from Genetically-Mutated Data Using AI**](..\AIMutatedData.pdf), Oct 2023
 - Utilized a Python neural network to predict frameshift defects in generalized datasets (95% accuracy) & extract information about substitution defects from frameshifted datasets (80% accuracy) for genomics annotation applications
 
 [**Learning Loss in a Post-COVID World**](https://storymaps.arcgis.com/stories/3d871ed4296143fd9c58b248e4e79d5f), April 2023 - May 2023
 - Quantified the emerging indicators/outcomes of COVID on educational learning loss across the United States using ArcGIS geospatial analytics & an AI analysis (with an 85% accuracy) for elementary manifold learning & dimensionality reduction
 - Attained an Honorable Mention distinction at James Madison University’s Geospatial Semester Map Contest
 
-[**An Application of Machine Learning for Economic Trend Prediction**](..\An_Application_of_Machine_Learning_for_Economic_Trend_Prediction.pdf), Aug 2019 - March 2020
+[**An Application of Machine Learning for Economic Trend Prediction**](..\MLEconometrics.pdf), Aug 2019 - March 2020
 - Compared machine learning algorithms’ (linear statistical analysis, support vector regression, & deep learning neural networks written in Python) accuracy in technical analyses of select NASDAQ securities, ultimately predicting prices within $10
 - Achieved 1st place at the Fairfax Regional Science & Engineering Fair/Finalist status at the Virginia State Fair
 
