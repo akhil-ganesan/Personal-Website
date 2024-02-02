@@ -41,14 +41,21 @@ The requirements for chemistry go beyond most engineering degrees, but are less 
 
 # Physics
 
-The requirements here are condensed from typical physics-heavy engineering degrees (i.e. mechanical & electrical). However, fundamental principles are covered.
+The requirements here are condensed from typical physics-heavy engineering degrees (i.e. mechanical, electrical, & chemical). However, fundamental principles are covered.
+
+#### Mechanical
 - PHYS 2211: Mechanics
 - COE 2001: Statics
 - BMED 3410: Biomechanics (Dynamics & Deformable Bodies)
+
+#### Electrical
 - PHYS 2212: Electromagnetism & Waves
 - ECE 3710: Circuits & Electronics
 - ECE 3741: Instrumentation & Electronics Lab
-- BMED 2110: Conservation Principles in BME (Engineering Physics)
+
+
+#### Chemical
+- BMED 2110: Conservation Principles in BME (Chemical Engineering Principles)
 - BMED 3310: Biotransport (Fluid Dynamics, Thermodynamics, & Mass Transfer)
 
 # Computer Science
@@ -57,3 +64,5 @@ The requirements include content from a simplified data analysis/signal processi
 - CS 1301/1371: Computing Principles
 - BMED 3520: Biomedical Systems & Modeling (Biocomputing)
 
+# Electives
+The BME degree also requires taking 12 credits of depth electives (courses under specific BME subfields) & 15 credits of breadth electives (which satisfy either pre-health requirements, an academic minor/certificate, etc.)
