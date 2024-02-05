@@ -45,6 +45,10 @@ Also view/connect with my [linkedin](https://www.linkedin.com/in/akhil-ganesan/)
 - Attended the Biomedical Sciences Summer Immersion Program
 - Applied biomedical lab techniques (i.e. gram staining, gel electrophoresis, polymerase chain reaction (PCR), clinical lab biochemical testing (blood/urine), etc.) to identify biomarkers for over 100 diseases, presenting case study diagnoses to a professor panel
 
+**University of Lynchburg**, Lynchburg, VA | Lead Student Researcher (Jun 2021 - July 2021)
+- Attended the Virginia Summer Residential Governor's School in Math, Science, & Technology
+- Led a team modeling exosolar system/exoplanet orbital mechanics seeking conditions for life; presented final report to the department
+
 ## Projects
 
 For this section, see [here]({{ site.baseurl }}{% link projects.markdown %}) for more details
@@ -84,6 +88,3 @@ For this section, see [here]({{ site.baseurl }}{% link projects.markdown %}) for
 - **U.S. Presidential Scholarship Candidate**: Program created to honor some of our nation's most distinguished graduating high school seniors. Of over 3.7 million high school seniors, 5,000 students qualify as candidates for the final award granted to 161 students
 - **PSAT/NMSQT Letter of Commendation**: Awarded to the top ~50,000 high scorers on the annual 11th grade PSAT/NMSQT in recognition of their outstanding academic promise
 - **AP Computer Science A Exam Perfect Scorer**: Beyond just getting a 5 on the exam, this award was given to 345 students who scored every possible point on the exam out of over 64,000 worldwide test takers
-- **Virginia Summer Residential Governor School for Math Science & Technology Attendee**: Accepted into a state-wide selective summer program where I developed research projects in astronomy/astrophysics while gaining biological/anatomical laboratory experience
-
-
