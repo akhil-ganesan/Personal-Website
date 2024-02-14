@@ -6,19 +6,22 @@ permalink: /cv/
 
 Also view/connect with my [linkedin](https://www.linkedin.com/in/akhil-ganesan/).
 
+
+I’m an aspiring BME/CS student at Georgia Tech interested in cellular/tissue/genetic engineering, neural/immune engineering, & computational biology.
+
 ## Education
 
 **Georgia Institute of Technology**, Expected Grad: May 2026
 - B.S. Biomedical Engineering, Minor Computer Science (Concentration in Artificial Intelligence)
 - **Past Coursework**: Physics II, Statics, Organic Chemistry, Object-Oriented Programming, Engineering Materials
-- **Future Coursework**: Differential Equations, Biostatistics, Circuits & Electronics, Conservation Principles in BME, Biomechanics
-- **Activities/Societies**: Bioinformatics at Georgia Tech, Biotechnology Club, Healthcare Innovations Club, Biomedical Engineering Society
+- **Current Coursework**: Differential Equations, Biostatistics, Circuits & Electronics, Conservation Principles in BME, Biomechanics
+- **Activities/Societies**: GT Medical Robotics, GT Quizbowl Team, Bioinformatics at Georgia Tech, Data Science @ GT, Healthcare Innovations Club, Biotechnology Club, Biomedical Engineering Society
 - **GPA**: 4.0/4.0
 
 **Centreville High School**, Grad: May 2023
-- Virginia Advanced Diploma
-- **Relevant Coursework**: Calculus III & Linear Algebra (Dual-Enrolled with George Mason University), AP Biology, AP Chemistry, AP Physics C: Mechanics, Advanced Computer Science AB, Geospatial Information Systems (Dual-Enrolled with James Madison University)
-- **Activities/Societies**: Science Olympiad, Robotics, Speech & Debate, CyberPatriots, Quizbowl, Varsity Tennis, & National/Science/Computer Science/Math/Social Studies/English Honor Societies
+- Virginia Advanced Diploma, Civic Service & Science/Environmental Seal
+- **AP/Advanced/DE Courses**: Biology, Chemistry, Physics C: Mechanics, Calculus BC, Multivariable Calculus, Linear Algebra, Computer Science A, Data Structures (Computer Science AB), Geospatial Information Systems (GIS) & Analysis, World History: Modern, U.S. History, U.S. Government & Politics, Comparative Government & Politics, Microeconomics, Macroeconomics, English Language & Composition, College Composition I/II (All AP Scores: 5)
+- **Activities/Societies**: Science Olympiad (Captain), Robotics (Captain & Programming Lead), Speech & Debate (Captain), CyberPatriots (Captain), Quizbowl (Captain), Centreville/Fairfax Regional/Virginia State Science & Engineering Fair, Math Olympiad (Captain), Varsity Chess Team (Vice Captain), Varsity Tennis, South Asian Student Association, App Development Club, Future Medical Leaders of America, & National/Science (President)/Computer Science (President)/Math/Social Studies/English Honor Societies
 - **GPA**: 4.0/4.0 (Unweighted)
 
 ## Experience
