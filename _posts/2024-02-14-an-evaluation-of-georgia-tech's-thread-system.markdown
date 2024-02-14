@@ -13,7 +13,7 @@ To start, the following is my framework for defining degree programs:
 2. Degree programs vary in the proportion of GR, MR, & MS courses/credits required.
 
 Here's an example of applying this framework:
-1. Variance of GRs: When comparing liberal arts colleges (LACs) to institutes of technology (IOTs) for STEM majors, typically LACs either require more GR classes/credits or their GRs consist of less STEM classes relative to IOTs. This results in LACs giving a broader set of knowledge for students while IOTs give students a narrower, depth-focused experience into their STEM Major. Both of these outcomes have their advantages and disadvantages.
+> Variance of GRs: When comparing liberal arts colleges (LACs) to institutes of technology (IOTs) for STEM majors, typically LACs either require more GR classes/credits or their GRs consist of less STEM classes relative to IOTs. This results in LACs giving a broader set of knowledge for students while IOTs give students a narrower, depth-focused experience into their STEM Major. Both of these outcomes have their advantages and disadvantages.
 
 # CS Threads as a Case Study
 
