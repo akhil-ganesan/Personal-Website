@@ -6,7 +6,7 @@ categories: Georgia Tech, Computer Science
 ---
 As an addendum to my [prior post breaking down the threads for the CS major]({{ site.baseurl }}{% link _posts/2024-02-12-georgia-tech's-cs-threads-analyzed.markdown %}), here I'm going to evaluate the thread system as a whole compared to its alternatives.
 
-# Evaluation Framework
+## Evaluation Framework
 
 To start, the following is my framework for defining degree programs: 
 1. Degree Programs consist of 3 primary components: General Requirements (GRs), Major Requirements (MRs), & Major Specializations (MSs, typically elective/optional classes)
@@ -15,7 +15,7 @@ To start, the following is my framework for defining degree programs:
 Here's an example of applying this framework:
 > Variance of GRs: When comparing liberal arts colleges (LACs) to institutes of technology (IOTs) for STEM majors, typically LACs either require more GR classes/credits or their GRs consist of less STEM classes relative to IOTs. This results in LACs giving a broader set of knowledge for students while IOTs give students a narrower, depth-focused experience into their STEM Major. Both of these outcomes have their advantages and disadvantages.
 
-# CS Threads as a Case Study
+## CS Threads as a Case Study
 
 Now, when comparing the CS Thread system to that of a traditional STEM degree program (i.e. Aerospace Engineering (AE)/Biomedical Engineering (BME), which include a couple options/depth electives & free/breadth electives respectively to complement their general major requirements) at Georgia Tech using the framework, it's clear Threads increase MS requirements and decrease MR requirements relative to the traditional alternative.
 
@@ -31,7 +31,7 @@ Now this increased depth for decreased breadth conclusion applies in general, bu
 
 There is one outstanding argument here: isn't a high level of specialization, especially in the initial degree, very beneficial for a job market such as CS centered around subject matter experts (SMEs)? This is true, and if one's ultimate paradigm is to enter industry under a specialization very quickly, then this makes the thread system extremely beneficial. However, my paradigm varies: I believe the undergraduate experience especially should consist of significant breadth as it increases exposure to skills/subjects in a safe environment with experts to support your learning. By increasing the subjects/skills exposed to, a student opens more doors for their future career outside college, whether that means more sectors in industry or expanding to academia, research, startups, etc. Additionally, students may be able to explore their interests more and find their true niche have they not already. Furthermore, specialization can be done through side projects, electives courses, or to the most intensive extent, higher education. In fact, currently I think the thread system's high level of course specialization approaches that of taking a masters degree in CS (without the sufficient undergraduate background), which is what makes the CS minor program, which also has this high level of thread specialization, beneficial as it's similar to a traditional MS CS than a traditional CS Minor. However, I will note my paradigm varies from the aforementioned industry-focused mindset because for CS especially, settling in industry early is so economically favorable (not just financially, but considering work-life balance and flexibility particularly with remote working) relative to the alternatives with a CS degree (such as academia or startups, which generally have lower financial outcomes with relatively more stressful work-life balance). As a result, why bother increasing the degree of difficulty if the end result of university will be the same regardless?
 
-# Generalization to Other Major Threads
+## Generalization to Other Major Threads
 
 Now after discussing CS's Thread system, I do want to make note that threads exist in other degrees at Georgia Tech. However, their implementation varies significantly. For instance, here are 2 other degrees with threads:
 - **Computer Engineering (CE)**: CE's thread system requires you take 1 CE thread, with the second thread allowed to be anything else from a set of Electrical Engineering, CE, & CS threads. In this way, fundamental CE courses will always be included in the required CE thread, with more specialization allowed through the broader choice thread

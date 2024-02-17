@@ -15,7 +15,7 @@ The CS major is structured at Georgia Tech such that students select 2 concentra
 - **Modeling & Simulation**: Covers topics in data science/analysis (the minor is broken down into 2 different threads: Computational Data Analysis and Scientific & Engineering Computing)
 - **Theory**: Covers topics in algorithms and mathematical foundations of CS
 
-# Thread Combinations for CS Majors
+## Thread Combinations for CS Majors
 The following are my suggested thread combinations for specializing in various indicated CS subfields:
 
 **Best Combo for Software Engineering**: *Information Internetworks + Systems & Architecture*
@@ -39,7 +39,7 @@ The following are my suggested thread combinations for specializing in various i
 **Next Best Combo for a Comprehensive CS Degree**: *Information Internetworks + Intelligence*
 > This combination pairs the next best threads from the above 2 categories. This combination may be more ideal for most as it's arguable that Information Internetworks replaces niche content from Systems & Architecture with courses more practical to software engineering (and likewise with the Intelligence and Theory thread, placing more of an emphasis on data science/analysis than pure mathematics which is less practical in industry). Additionally, the courses are considered easier content wise. As a result, this thread combination is one of the most popular at Georgia Tech, with its "better" counterpart practically unseen. 
 
-# Threads for the CS Minor
+## Threads for the CS Minor
 
 To evaluate the utility of each CS minor, I looked at the course requirements for each, bearing in mind the following:
 * The 3 most useful/fundamental CS courses are Data Structures & Algorithms, Computer Organization & Programming, and Objects & Design (which is a project-based course where students develop an application, which is uniquely useful for non-CS majors looking to add a technical project to their portfolio)
