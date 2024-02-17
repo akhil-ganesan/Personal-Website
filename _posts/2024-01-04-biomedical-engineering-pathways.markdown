@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biomedical Engineering Pathways"
+title:  "The Biomedical Engineering Problem"
 date:   2024-01-04 14:41:00 -0500
 categories: Biomedical Engineering
 ---
@@ -11,12 +11,43 @@ After embarking on my college journey studying biomedical engineering (BME), I l
 
 Biomedical engineering isn't a typical engineering field; it involves the application of skills from a variety of core engineering disciplines (i.e., mechanical, electrical, chemical, etc.) in biological and medical contexts. For instance, biomedical engineers apply mechanical and electrical engineering principles when developing medical devices/robots. They apply chemical engineering techniques (i.e. synthetic chemistry) when engineering new biomolecules (i.e. vaccines or drugs). They apply computer science skills (i.e. programming/data analysis) when working in computational biology (i.e. modeling an organ system). In essence, the major opens up pathways to a variety of careers across engineering disciplines that involve projects related to biomedicine.
 
-## Breadth v.s. Depth
+## The Problem: Breadth v.s. Depth
 
 The downside of this breadth is the lack of depth: most biomedical engineering undergraduate programs can't adequately teach all the engineering skills of a mechanical, electrical, chemical, computer, etc. engineer. To combat this, biomedical engineering students gain a surface-level introduction to the principles engineering, and electives/concentrations allow for students to pick a specific engineering skills to further develop. For instance, one of Duke University's BME degree's elective course sequences is biomechanics and biomaterials, which furthers BME students' mechanical and materials engineering skills through classes like biofluid mechanics and theoretical/applied polymer science (polymers are a major materials class within the materials science discipline). However, because electives/concentrations typically don't contribute significantly to a degree's core requirements, the aforementioned example ends up as a watered down mechanical & materials engineering double major with a biology minor. As a result, to truly gain the skills through meaningful coursework, many BME students have to go to graduate school to supplement their "incomplete" undergraduate engineering education.
 
 And this relates to the second problem of the degree: due to the cram of engineering-related content, many biomedical engineering degrees aren't consistent with the amount of biology/chemistry content taught and tend to cover only the essentials. For instance, Georgia Tech's biomedical engineering program requires no biology department-run classes, but instead has 2 biomedical engineering classes & labs that cover the essential biosciences content (see [this article]({{ site.baseurl }}{% link _posts/2023-12-29-the-georgia-tech-bme-degree-analyzed.markdown %}) for more about the GT BME degree). It also requires a "Survey of Organic Chemistry" class that condenses/simplifies content from Organic Chemistry I & II. As a result, for students trying to enter a more biology-focused discipline such as medicine or medical research (computational neuroscience, tissue engineering, etc.), the degree isn't usually sufficient itself in preparing students.
 
-Now returning to the original premise of the degree condensing content from various engineering disciplines, this becomes a problem for students trying to enter industry. To illustrate this with an example, considering just their curriculum a biomedical engineering student is less qualified than an electrical engineering student in bioelectronics, a mechanical engineering student in medical devices, a computer science student in bioinformatics, etc. This is again because the biomedical engineering curriculum covers a simplified version of each engineering discipline. And while there are some exceptions to this, generally this implies biomedical engineering students have to set themselves apart through unique extracurricular experiences for skill-building and stronger networking in order to enter industry. This is also why many biomedical engineering degree graduates are pigeonholed into higher education as there aren't relevant industry positions they are uniquely qualified for. Interestingly enough, this may explain the approach Carnegie Mellon University has taken to develop their BME program: they require all BME students to double major in other engineering disciplines.
+Now returning to the original premise of the degree condensing content from various engineering disciplines, this becomes a problem for students trying to enter industry. To illustrate this with an example, considering just their curriculum a biomedical engineering student is less qualified than an electrical engineering student in bioelectronics, a mechanical engineering student in medical devices, a computer science student in bioinformatics, etc. This is again because the biomedical engineering curriculum covers a simplified version of each engineering discipline. And while there are some exceptions to this, generally this implies biomedical engineering students have to set themselves apart through unique extracurricular experiences for skill-building and stronger networking in order to enter industry. This is also why many biomedical engineering degree graduates are pigeonholed into higher education as there aren't relevant industry positions they are uniquely qualified for.
 
 For these reasons, biomedical engineering is typically seen as a "survey of engineering", covering a simplified version of various engineering disciplines. While many career pathways are open through the degree, it requires either significantly harder work to attain them or commitment to graduate school.
+
+## Addressing Possible Solutions
+
+So considering this paradox, how do the top schools still have good student outcomes? Rephrased, how can BME work out? In general, many solutions involve adding increased depth into the curriculum through various approaches. Below are listed the primary methods top schools have taken for this. 
+
+- **Concentrations/Specializations**: 
+- **Engineering Double Major**:
+- **Differentiated Degrees**: 
+- **BME Minor/Alternative Options**: 
+
+GT - Minor, BME Minor/BioE EE Thread/MSE Biomaterials Thread
+
+Duke - Concentration/Easy Double Major
+
+CMU - Forced Double Major
+
+MIT - Tracks
+
+Stanford - Biomechanical Engineering (Devices), Biomedical Computation
+
+UCB - Concentrations
+
+UMich (Tracks)
+
+UIUC (Tracks)
+
+JHU (Focus Areas)
+
+Cornell (Concentration, Required)
+
+UPenn (Concentration, Not Required)
