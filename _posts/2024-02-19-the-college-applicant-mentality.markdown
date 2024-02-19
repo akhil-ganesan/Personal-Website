@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The College Applicant Mentality"
 date:   2024-02-19 00:00:00 -0500
