@@ -5,7 +5,7 @@ date:   2023-12-29 17:17:00 -0500
 categories: Georgia Tech, Biomedical Engineering
 ---
 
-In developing the [biomedical engineering degree visualizer project](https://gt-bmed-degree-visualizer.onrender.com/), I researched the biomedical engineering degree-specific requirements at Georgia Tech. With this, here's my current understanding of the interdisciplinary curriculum by class subjects:
+In developing the [biomedical engineering degree visualizer project](https://akhil-ganesan.github.io/BMED-Degree-Visualizer/), I researched the biomedical engineering degree-specific requirements at Georgia Tech. With this, here's my current understanding of the interdisciplinary curriculum by class subjects:
 
 # Design
 
