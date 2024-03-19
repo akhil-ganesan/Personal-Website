@@ -8,12 +8,12 @@ permalink: /projects/
 
 This web app was developed to help biomedical engineering students at Georgia Tech plan their class schedules based on course prerequisites to fulfill their degree requirements. It uses a Flask framework (with HTML, CSS, & JavaScript) for the front-end and on the back-end uses Python (which models the prerequisite chain as a graph to determine course recommendations).
 
-<object data="https://gt-bmed-degree-visualizer.onrender.com/" width="100%" height="750px">
-    <embed src="https://gt-bmed-degree-visualizer.onrender.com/">
-        <p>This browser does not support embeds. Please <a href="https://gt-bmed-degree-visualizer.onrender.com/">click here</a> to be redirected to the content.</p> 
+<object data="https://akhil-ganesan.github.io/BMED-Degree-Visualizer/" width="100%" height="750px">
+    <embed src="https://akhil-ganesan.github.io/BMED-Degree-Visualizer/">
+        <p>This browser does not support embeds. Please <a href="https://akhil-ganesan.github.io/BMED-Degree-Visualizer/">click here</a> to be redirected to the content.</p> 
 </object>
 
-Note: it may take a couple minutes to load due to the hosting service. The direct website link is [https://gt-bmed-degree-visualizer.onrender.com/](https://gt-bmed-degree-visualizer.onrender.com/)
+Note: it may take a couple minutes to load due to the hosting service. The direct website link is [https://akhil-ganesan.github.io/BMED-Degree-Visualizer/](https://akhil-ganesan.github.io/BMED-Degree-Visualizer/)
 
 ## Detecting & Extracting Information from Genetically-Mutated Data Using AI
 
@@ -70,4 +70,4 @@ The PDF is also directly [linked](..\Statics_Structural_Analysis.pdf)
 [Genetic Data]: https://drive.google.com/file/d/1z03PWq5cVhoDv7AGSaVYgWjgcoqVOctj/view
 [MLFinance]: https://drive.google.com/file/d/10x1cuBCFCoq3JTzXtQORGeregigSns0r/view
 [LLPCW]: https://storymaps.arcgis.com/stories/3d871ed4296143fd9c58b248e4e79d5f
-[BDV]: https://gt-bmed-degree-visualizer.onrender.com/
+[BDV]: https://akhil-ganesan.github.io/BMED-Degree-Visualizer/
