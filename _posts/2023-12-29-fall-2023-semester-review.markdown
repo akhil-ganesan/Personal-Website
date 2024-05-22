@@ -22,7 +22,7 @@ Next semester I plan to take the following classes: Differential Equations, Stat
 
 ## Extracurricular
 
-With respect to clubs, this semester I joined Bioinformatics Club & Healthcare Innovations Club (I may continue next semester pursuing a helthcare AI-related project for them). I also may join the Medical Robotics Club & Biotechnology Club next semester if time permits. 
+With respect to clubs, this semester I joined Bioinformatics Club & Healthcare Innovations Club (I may continue next semester pursuing a healthcare AI-related project for them). I also may join the Medical Robotics Club & Biotechnology Club next semester if time permits. 
 
 This semester, I wasn't able to begin doing BME research. This has translated to my primary goal for next semester. Instead, this semester I spent time working on [personal projects]({{ site.baseurl }}{% link projects.markdown %}) (to which I advanced my CS technical skills), revising my resume, networking, & applying to opportunities/internships. This is something I'll continue next semester through spring recruiting season.
 
