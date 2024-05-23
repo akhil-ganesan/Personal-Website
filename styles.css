@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+@keyframes openAnimation {
+    0% {
+        height: 0;
+    }
+    100% {
+        height: 80%;
+    }
+}
+
+.cmd {
+    width: 80%;
+    max-width: 800px;
+    background-color: black;
+    border: 2px solid #00ff00;
+    height: 0; /* Initially height is 0 */
+    overflow: hidden;
+    animation: openAnimation 1s forwards; /* 1 second animation */
+}
+
+.title-bar {
+    background-color: #00ff00;
+    padding: 5px;
+    color: black;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.content {
+    padding: 10px;
+}
+
+.prompt {
+    color: #00ff00;
+    white-space: nowrap;
+}
+
+.input-line {
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* Prevent line breaks within the flex container */
+    font-family: 'Courier New', Courier, monospace; /* Ensure font consistency */
+    font-size: 16px; /* Ensure font size consistency */
+    line-height: 1.5; /* Ensure line height consistency */
+}
+
+input {
+    background-color: black;
+    color: #00ff00; /* Match the prompt color */
+    font-family: 'Courier New', Courier, monospace; /* Match the prompt font */
+    font-size: 16px; /* Match the prompt font size */
+    border: none;
+    outline: none;
+    flex: 1; /* Allow the input to take up remaining space */
+    caret-color: #00ff00; /* Match the cursor color */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    height: 1.5em; /* Match the line height */
+    line-height: 1.5; /* Ensure line height consistency */
+}
+
+#output p {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace; /* Ensure font consistency */
+    font-size: 16px; /* Ensure font size consistency */
+    line-height: 1.5; /* Ensure line height consistency */
+}
