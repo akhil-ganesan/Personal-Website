@@ -141,11 +141,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         response += `Project ID ${projectID} not found <br>`;
                     }
                 } else {
-                    response = 'Usage: projects list or projects [project ID]';
+                    response = 'Usage: \nType "projects list" to see a list of all my projects (with associated IDs)\nType "projects [project ID]" to see details on a specific project (i.e. "projects 0" for the top project)';
                 }
                 break;
             case 'help':
-                response = 'Available commands: help, about, contact, blog, projects, clear';
+                response = 'Available commands: \n"help" - lists each command and functionality\n"about" - displays a short bio about me\n"contact" - displays my contact information and social accounts\n"blog" - type "blog" for specific usage instructions\n"projects" - type "projects" for specific usage instructions\n"clear" - clears the terminal (saves history for up/down arrow command navigation)';
                 break;
             case 'about':
                 response = 'Hi!\n\nMy name is Akhil Ganesan. I’m an aspiring biomedical engineer (with an interest in computer science and advanced technologies) hoping to specialize in fields such as cellular/tissue/genetic engineering, neuroengineering, immunoengineering, & computational biology. Currently, my relevant experiences have independently involved engineering/technology (see my past projects (run the command "projects list") and my <a href="https://github.com/akhil-ganesan" target="_blank">GitHub</a>) or biosciences; however, entering the Georgia Institute of Technology to study Biomedical Engineering with a minor in Computer Science and Artificial Intelligence marks the beginning of my journey in advancing the technological revolution of medicine for the greater good.\n\nIf you’d like to connect or would like a copy of my resume, I can be reached by email (akhilganesan526@gmail.com) or via <a href="https://www.linkedin.com/in/akhil-ganesan" target="_blank">LinkedIn</a>.';
@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         loadBlogPost(availablePosts[commandParts[1]]);
                     }
                 } else {
-                    response = 'Usage: blog list or blog [post ID]';
+                    response = 'Usage: \nType "blog list" to see a list of all my blog posts (with associated IDs)\nType "blog [post ID]" to see a specific post (i.e. "blog 0" for the top post)';
                 }
                 break;
             case 'clear':
