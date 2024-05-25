@@ -130,6 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const projectID = commandParts[1];
                     const project = projects[projectID];
                     if (project) {
+                        response += `${project.name}<br><br>`
                         response += `${project.description}<br>`;
                         if (project.file) {
                             response += `<a href="${project.file}" target="_blank">${project.file}</a><br>`;
