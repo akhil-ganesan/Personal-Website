@@ -2,13 +2,14 @@
 
 body {
     background-color: #000;
-    color: #0f0;
-    font-family: monospace;
+    color: #fff;/*#0f0;*/
+    font-family: 'Courier New', Courier, monospace;    
     margin: 0;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 16px; /* Match the prompt font size */
 }
 
 .terminal {
@@ -40,9 +41,51 @@ body {
 }
 
 #input {
+    font-family: 'Courier New', Courier, monospace;
     background: none;
     border: none;
-    color: #0f0;
+    color: #fff;/*#0f0;*/
     outline: none;
     flex: 1;
+    font-size: 16px; /* Match the prompt font size */
+}
+
+.notepad {
+    display: none; /* Initially hidden */
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    border: 2px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    color: black;
+}
+
+.notepad-title-bar {
+    background-color: #0000ff;
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.notepad-content {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+    overflow-y: auto;
+    height: calc(100% - 30px); /* Adjust height to account for title bar */
+    box-sizing: border-box;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
 }
